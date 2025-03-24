@@ -40,14 +40,14 @@
 
 ---
 
-## Screenshot
+## 📷 Screenshot
 ![](screenshots/main.png)
 ![](screenshots/booking.png)
 ![](screenshots/menu.png)
 ![](screenshots/about.png)
 
 
---
+---
 
 ## 🛠 Setup & Installation
 
@@ -91,8 +91,6 @@ This project is for educational purposes as part of the Meta Front-End Developer
 ## 📍 Links
 
 - 👉 [Meta Front-End Course](https://www.coursera.org/meta-frontend)  
-
----
 
 ## ✨ Next Steps
 - Improve **performance & accessibility**
