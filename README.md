@@ -92,9 +92,9 @@ This project is for educational purposes as part of the Meta Front-End Developer
 
 - 👉 [Meta Front-End Course](https://www.coursera.org/meta-frontend)  
 
+---
+
 ## ✨ Next Steps
 - Improve **performance & accessibility**
 - Add **backend integration** for real restaurant data
 - Implement **user authentication** for returning customers
-
----
