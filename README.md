@@ -16,7 +16,12 @@
 - ✅ **Deploying a production-ready React app**
 
 ---
+## 🛑 NOTE
 
+- I know the **project's UI looks outdated***, but it was required to be submitted this way.
+- The screenshots provide just a small preview of the app—don't judge it before **checking it out**!
+
+---
 ## ⚙️ Tech Stack & Features
 
 ### **⚡ Technologies Used**
@@ -34,6 +39,15 @@
 - ✅ Dark mode toggle for better UX
 
 ---
+
+## Screenshot
+![](screenshots/main.png)
+![](screenshots/booking.png)
+![](screenshots/menu.png)
+![](screenshots/about.png)
+
+
+--
 
 ## 🛠 Setup & Installation
 
