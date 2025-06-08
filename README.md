@@ -64,21 +64,9 @@ npm install
 
 ### **3️⃣ Start the Development Server**
 ```bash
-npm run dev  # If using Vite
-# OR
-npm start    # If using CRA
+npm start
 ```
 > Runs at **`http://localhost:3000`**  
-
----
-
-## 🚀 Deployment
-
-To deploy the project, use **Vercel** or **Netlify**:
-```bash
-npm run build
-```
-Upload the `dist/` (Vite) or `build/` (CRA) folder to your preferred hosting platform.
 
 ---
 
