@@ -101,7 +101,7 @@ export const Header = () => {
         src={
           'https://ik.imagekit.io/zenius/Coursera/html-css/Asset_16_4x_nnQ67G1HkI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674426270946'
         }
-        height={windowWidth > 768 && windowWidth < 840 ? '50px' : '60px'}
+        height={windowWidth > 768 && windowWidth < 840 ? '50px' : '40px'}
       />
 
       {showMenu && (

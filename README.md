@@ -86,3 +86,10 @@ This project is for educational purposes as part of the Meta Front-End Developer
 - Improve **performance & accessibility**
 - Add **backend integration** for real restaurant data
 - Implement **user authentication** for returning customers
+
+---
+
+# Credit:
+
+Jayantasamaddar 🫡
+https://github.com/jayantasamaddar/
